@@ -18,8 +18,10 @@ public class PaternityTest {
 
   public static void main(String[] args) {
 
-    // TODO: Part 3
+    // TODO: Part 3.2
 
   }
+
+  // TODO: Part 3.1
 
 }
